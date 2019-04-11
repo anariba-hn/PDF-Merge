@@ -1,0 +1,67 @@
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\bin\Debug\ImpresionFacturas.exe
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\bin\Debug\ImpresionFacturas.pdb
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\bin\Debug\Spire.License.dll
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\bin\Debug\Spire.Pdf.dll
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\obj\Debug\ImpresionFacturas.Form1.resources
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\obj\Debug\ImpresionFacturas.Properties.Resources.resources
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.GenerateResource.Cache
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\obj\Debug\ImpresionFacturas.exe
+C:\Users\crosales.GRUPOFARSIMAN\Desktop\POS_SVN Base 20190405\ImpresionFacturas\obj\Debug\ImpresionFacturas.pdb
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\bin\Debug\ImpresionFacturas.exe
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\bin\Debug\ImpresionFacturas.pdb
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\bin\Debug\Spire.License.dll
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\bin\Debug\Spire.Pdf.dll
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\bin\Debug\Microsoft.mshtml.dll
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.csprojAssemblyReference.cache
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.Form1.resources
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.Properties.Resources.resources
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.GenerateResource.cache
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.CoreCompileInputs.cache
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.CopyComplete
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.exe
+C:\Users\danariba\Desktop\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.pdb
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.csprojAssemblyReference.cache
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\obj\Debug\FSimanPDFManager.Form1.resources
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.GenerateResource.cache
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.CoreCompileInputs.cache
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\bin\Debug\FSimanPDFManager.exe
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\bin\Debug\FSimanPDFManager.pdb
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\bin\Debug\Spire.License.dll
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\bin\Debug\Spire.Pdf.dll
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\bin\Debug\Spire.PdfViewer.Forms.dll
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\bin\Debug\Microsoft.mshtml.dll
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\obj\Debug\FSimanPDFManager.Properties.Resources.resources
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.CopyComplete
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\obj\Debug\FSimanPDFManager.exe
+E:\DA\Proyectos\ImpresionFacturas\ImpresionFacturas\obj\Debug\FSimanPDFManager.pdb
+E:\DA\Proyectos\ImpresionFacturas\bin\Debug\FSimanPDFManager.exe
+E:\DA\Proyectos\ImpresionFacturas\bin\Debug\FSimanPDFManager.pdb
+E:\DA\Proyectos\ImpresionFacturas\bin\Debug\Spire.License.dll
+E:\DA\Proyectos\ImpresionFacturas\bin\Debug\Spire.Pdf.dll
+E:\DA\Proyectos\ImpresionFacturas\bin\Debug\Spire.PdfViewer.Forms.dll
+E:\DA\Proyectos\ImpresionFacturas\bin\Debug\Microsoft.mshtml.dll
+E:\DA\Proyectos\ImpresionFacturas\obj\Debug\ImpresionFacturas.csprojAssemblyReference.cache
+E:\DA\Proyectos\ImpresionFacturas\obj\Debug\FSimanPDFManager.Form1.resources
+E:\DA\Proyectos\ImpresionFacturas\obj\Debug\FSimanPDFManager.Properties.Resources.resources
+E:\DA\Proyectos\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.GenerateResource.cache
+E:\DA\Proyectos\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.CoreCompileInputs.cache
+E:\DA\Proyectos\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.CopyComplete
+E:\DA\Proyectos\ImpresionFacturas\obj\Debug\FSimanPDFManager.exe
+E:\DA\Proyectos\ImpresionFacturas\obj\Debug\FSimanPDFManager.pdb
+C:\Users\danariba\Desktop\ImpresionFacturas\obj\Debug\ImpresionFacturas.csprojAssemblyReference.cache
+C:\Users\danariba\Desktop\ImpresionFacturas\obj\Debug\ImpresionFacturas.Form1.resources
+C:\Users\danariba\Desktop\ImpresionFacturas\obj\Debug\ImpresionFacturas.Properties.Resources.resources
+C:\Users\danariba\Desktop\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.GenerateResource.cache
+C:\Users\danariba\Desktop\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.CoreCompileInputs.cache
+C:\Users\danariba\Desktop\ImpresionFacturas\bin\Debug\ImpresionFacturas.exe
+C:\Users\danariba\Desktop\ImpresionFacturas\bin\Debug\ImpresionFacturas.pdb
+C:\Users\danariba\Desktop\ImpresionFacturas\bin\Debug\Spire.License.dll
+C:\Users\danariba\Desktop\ImpresionFacturas\bin\Debug\Spire.Pdf.dll
+C:\Users\danariba\Desktop\ImpresionFacturas\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\danariba\Desktop\ImpresionFacturas\bin\Debug\Microsoft.mshtml.dll
+C:\Users\danariba\Desktop\ImpresionFacturas\obj\Debug\ImpresionFacturas.csproj.CopyComplete
+C:\Users\danariba\Desktop\ImpresionFacturas\obj\Debug\ImpresionFacturas.exe
+C:\Users\danariba\Desktop\ImpresionFacturas\obj\Debug\ImpresionFacturas.pdb
